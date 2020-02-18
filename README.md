@@ -1,6 +1,6 @@
 # jekyll-starter
 
-Quite possibly the best Jekyll Starter ever!
+## Quite possibly the best Jekyll Starter ever!
 
 Tired of stripping unwanted code, configurations, package manager waste, and other crap you don't need?
 
